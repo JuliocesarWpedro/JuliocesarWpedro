@@ -2,7 +2,15 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center"><img width= "49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocesarWpedro&theme=vue-dark&hide_border=true"/><img width= "49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarWpedro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></div>
+
+
+###
+
+<h3 align="left">🛠 Technologies used</h3>
 
 ###
 
@@ -32,7 +40,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-wanderosfky-977301297/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -40,5 +48,4 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
 
