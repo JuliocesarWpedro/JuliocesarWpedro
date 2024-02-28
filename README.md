@@ -5,7 +5,7 @@
 
 ###
 
-<div align="center"><img width= "49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocesarWpedro&theme=vue-dark&hide_border=true"/><img width= "41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarWpedro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></div>
+<div align="center"><img width= "41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesarWpedro&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></div>
 
 ###
 
